@@ -11,13 +11,12 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.49.1",
-    "next": "^16.2.4",
     "pdf-lib": "^1.17.1"
   },
-  "devDependencies": {
-    "@types/node": "^22.15.0",
-    "@vercel/node": "^5.3.4",
-    "typescript": "^5.8.3",
-    "vercel": "^39.4.2"
+ "devDependencies": {
+  "@types/node": "^22.15.0",
+  "typescript": "^5.8.3",
+  "vercel": "^39.4.2"
   }
 }
+
