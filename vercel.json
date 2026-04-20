@@ -3,6 +3,11 @@
     "api/*.ts": {
       "runtime": "@vercel/node@3.0.0"
     }
-  }
+  },
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "buildCommand": "npm run build",
+  "nodeVersion": "18.x"
 }
 
